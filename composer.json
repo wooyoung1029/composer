@@ -10,6 +10,10 @@
             "email": "1021218480@qq.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "extra": {
+        "branch-alias": {
+            "dev-master": "6.3-dev"
+        }
+    },
 }
