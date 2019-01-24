@@ -10,5 +10,6 @@
             "email": "1021218480@qq.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
